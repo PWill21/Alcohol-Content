@@ -2,7 +2,7 @@
 ## Program Name: alchohol.py
 ## Programmer: Patrick Will
 ## Date: 6/16/2018
-## Purpose: A program to find the alcohol content in ounces of an alcholic drink
+## Purpose: A program to find the alcohol content in ounces of an alcoholic drink
 
 #variables
 abv = float(input('What is the ABV in percent?: '))
